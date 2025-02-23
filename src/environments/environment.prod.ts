@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  API_URL: 'http://vm:3334',
-  STRATUM_URL: 'vm:3333',
+  API_URL: 'http://box:3334',
+  STRATUM_URL: 'box:3333',
 };
